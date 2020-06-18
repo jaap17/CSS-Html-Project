@@ -1,0 +1,21 @@
+.container2{
+	display: flex;
+	background-color: #ccc;
+	margin:auto;
+	padding: 0;
+}
+
+.footer{
+	background-color: #ccc;
+	height: 100px;
+	padding: 20px;
+	font-family: helvetica;
+	text-align: center;
+	width: 55%;
+	color: coral;
+}
+
+.footer-images{
+	margin-right: 30px;
+}
+

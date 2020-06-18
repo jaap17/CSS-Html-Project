@@ -1,0 +1,288 @@
+
+
+.navbar ul{
+	padding: 0;
+	margin:auto;
+	border:1px #fff solid;
+	box-sizing: border-box;
+	height: 400px;
+	width: 1300px;
+	background-image: url('../images/home.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.navbar li{
+	border:6px blue solid;
+	height: 30px;
+	background-color: blue;
+	float: right;
+	list-style: none;
+	padding-right: 10px;
+	font-size: 20px;
+	margin-top: 20px;
+	margin-right: 50px;
+	font-family: sans-serif;
+	text-decoration: none;
+	font-style: bold;
+}
+
+.navbar a{
+	color: #fff;
+	padding-right: 20px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.navbar a:hover{
+	color: coral;
+}
+
+.container{
+	display: flex;
+	padding: 0;
+	margin: auto;
+}
+.container1{
+	display: inline-flex;
+	height: 300px;
+	width: 100%;
+	padding: 0;
+	margin: auto;
+}
+.son{
+	margin-left: 40px;
+}
+
+.sonlok ul{
+	list-style: none;
+}
+
+.sonlok a{
+	text-decoration: none;
+	color: red;
+	font-family: sans-serif;
+}
+
+.sonlok a:hover{
+	color: #333;
+}
+
+.parlite a{
+	text-decoration: none;
+	color: red;
+	font-family: sans-serif;
+}
+
+.parlite a:hover{
+	color: #333;
+}
+
+.Partite a{
+	text-decoration: none;
+	color: red;
+	font-family: sans-serif;
+}
+
+.Partite a:hover{
+	color: #333;
+}
+
+.parfix a{
+	text-decoration: none;
+	color: red;
+	font-family: sans-serif;
+}
+
+.parfix a:hover{
+	color: #333;
+}
+
+.parlite ul{
+	list-style: none;
+}
+
+.Partite ul{
+	list-style: none;
+}
+
+.parfix ul{
+	list-style: none;
+}
+.parfix li{
+	margin-left: 40px;
+}
+
+.parbond ul{
+	list-style: none;
+}
+
+.parbond a{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: red;
+}
+
+.parbond ul{
+	margin-left: 40px;
+}
+
+.parbond a:hover{
+	color: #333;
+}
+
+.parbond-polyurethane a:hover{
+	color: #333;
+}
+
+.parbond-polyurethane ul{
+	list-style: none;
+}
+
+.parbond-polyurethane a{
+	text-decoration: none;
+	font-family: sans-serif;
+	color: red;
+}
+
+.container2{
+	display: flex;
+	background-color: #ccc;
+	margin:auto;
+	padding: 0;
+}
+
+.footer{
+	background-color: #ccc;
+	height: 100px;
+	padding: 20px;
+	font-family: helvetica;
+	text-align: center;
+	width: 55%;
+	color: coral;
+}
+
+.footer-images{
+	margin-right: 30px;
+}
+
+.table{
+	margin-top: 0px;
+	padding: 0;
+}
+
+.certifications{
+	margin-left: 60px;
+
+}
+
+.qualities{
+	
+	border: 1px yellow solid;
+	height: 80px;
+	width: 300px;
+	padding: 10px;
+	box-sizing: border-box;
+	background-color: #333;
+	color:#fff;
+	font-family: sans-serif;
+}
+
+.sonlok1{
+	display: inline-flex;
+	border:1px #fff solid;
+	box-sizing: border-box;
+	height: 100px;
+	width: 320px;
+	background-color: #ccc;
+	margin-left: 20px;
+	line-height: 1.2em;
+}
+
+.products table{
+	margin-left: 0px;
+}
+.products a{
+	color: red;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+
+.products p{
+	font-family: sans-serif;
+	line-height: 1.6em;
+}
+
+.product2 a{
+	color: red;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+
+.product2 p{
+	font-family: sans-serif;
+	line-height: 1.4em;
+
+}
+
+.heading{
+	margin: 0;
+	padding: 0;
+}
+
+.career-content{
+	display: flex;
+	margin-left: 70px;
+
+}
+
+.career-content a{
+	color: red;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+.career-content a:hover{
+	color: blue;
+}
+
+.contact-content{
+	display: flex;
+	font-family: sans-serif;
+}
+
+.contact-content input[type="text"],textarea{
+	width: 100%;
+	background-color: #ccc;
+}
+
+.profile-content p{
+	line-height: 1.6em;
+	font-family: helvetica;
+	background-color: #333;
+	color: #fff;
+	border:1px #333 solid;
+	box-sizing: border-box;
+	width: 50%;
+}
+
+.profile-content td{
+	border:1px #ccc solid;
+	box-sizing: border-box;
+	background-color: #ccc;
+	font-family: arial;
+	padding: 30px;
+}
+
+.profile-content a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.profile-content {
+	display: flex;
+}
+
+.apply a{
+	color:blue;
+}
